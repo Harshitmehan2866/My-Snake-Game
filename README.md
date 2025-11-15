@@ -1,6 +1,6 @@
 # My-Snake-Game
 
-Introduction
+1. Introduction
 
 The Snake Game is a classic arcade-style game where the player controls a snake that moves around the screen to eat food items. Each time the snake eats food, it grows longer and moves faster. The game ends when the snake hits the wall or collides with its own tail.
 
